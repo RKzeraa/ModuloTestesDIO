@@ -14,7 +14,7 @@ Aprender os principais conceitos de testes unitários, seu objetivo e sua import
 - Maior confiança de que suas classes e métodos funcionam
 - Previnir problemas futuros
 
-![Diagrama da Solution](diagrama-Solution.svg)
+![Diagrama da Solution](diagrama-solution.svg)
 
 ## Projeto Calculadora (Console)
 
